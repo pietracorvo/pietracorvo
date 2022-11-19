@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 TODO
+<!-- eventually try this https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
+<!-- TODO recherche which funny stuff I could do here ... -->
