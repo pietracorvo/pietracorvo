@@ -1,6 +1,6 @@
 ### Welcome, far traveled stranger!
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="float:right" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="float:right" width="100" height="100" />
 
 Alexander Rabensteiner, born 1994 in Italy, degree in pyhsics, interests in Software Development, Machine Leaning, Data Analytics and a keen Digital Humanities afficionado. Years of industry knowledge in publishing and news business, currently working @[ÖNB](https://www.onb.ac.at/en/research/completed-projects). 
 
