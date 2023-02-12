@@ -1,4 +1,4 @@
-### Welcome fartraveled srtanger ![bla](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fmr-spock-gifs&psig=AOvVaw0YsFba0uiexD3BRD8jt8iW&ust=1676308899348000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIicwba_kP0CFQAAAAAdAAAAABAD)
+### Welcome fartraveled srtanger ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fmr-spock-gifs&psig=AOvVaw0YsFba0uiexD3BRD8jt8iW&ust=1676308899348000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIicwba_kP0CFQAAAAAdAAAAABAD)
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
