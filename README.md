@@ -1,4 +1,4 @@
-### Welcome far traveled srtanger
+### Welcome, far traveled stranger!
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="float:right" width="40" height="40" />
 
