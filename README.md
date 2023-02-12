@@ -31,6 +31,7 @@ Please feel free to stroll around, star what you like and leave a "follow" if yo
 
 Some of the funny stuff I do here:
 - my general purpose bucket list of [interesting stuff](https://github.com/pietracorvo/nice_data_sources)
+- some [generative art with Java Script](https://pietracorvo.github.io/generative_art_with_js/)
 - etc
 
 <!--TODO etc  bla-->
