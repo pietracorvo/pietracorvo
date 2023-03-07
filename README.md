@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="float:right" width="100" height="100" />
 
-Alexander Rabensteiner, born 1994 in Italy, degree in pyhsics, interests in Software Development, Machine Leaning, Algorithms, Data Analytics and a keen Digital Humanities afficionado. Years of industry knowledge in publishing and news business, currently working @[ÖNB](https://www.onb.ac.at/en/research/completed-projects) and @[LexisNexis](https://github.com/LexisNexis). 
+Alexander Rabensteiner, born 1994 in Italy, degree in pyhsics, interests in Software Development, Machine Leaning, Data Analytics and a keen Digital Humanities afficionado. Years of industry knowledge in publishing and news business, currently working @[ÖNB](https://www.onb.ac.at/en/research/completed-projects) and @[LexisNexis](https://github.com/LexisNexis). 
 
 Please feel free to stroll around, star what you like and leave a "follow" if you can find anything useful, interesting or at least delightful. 😄  
 (you can also reach out [to me personally](mailto:pietracorvo@hotmail.com?subject=GitHub_pietracorvo_followup))
