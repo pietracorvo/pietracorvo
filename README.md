@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" style="float:right" width="200" height="200" />
 
-Alexander Rabensteiner, born 1994 in Italy, degree in physics, interests in Software Development, Machine Leaning, Data Analytics. Years of industry knowledge in publishing, news business and libraries, cuurently based in Switzerland. 
+Alexander Rabensteiner, born 1994 in Italy, degree in physics, interested in Software Development, Machine Leaning, Data Analytics, Electronics and DIY. Years of industry knowledge in publishing, news business, library data management and measurment technology. Currently based in Switzerland working on legal metrology at [METAS](https://www.metas.ch/metas/en/home.html).
 
 Please feel free to stroll around, star what you like and leave a "follow" if you can find anything useful, interesting or at least delightful.
 (if you have specific questions or feature requests you can also reach out [to me personally](mailto:pietracorvo@hotmail.com?subject="GitHub_pietracorvo_followup"))
